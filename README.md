@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Tony! 👋
 
-<!--
-**TonyTheSlacker/TonyTheSlacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and aspiring Systems Engineer. I enjoy solving complex logic puzzles and building efficient software.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **EVNhom12** (EV routing with A* algorithms)
+- 📚 I’m currently learning: **CS50** (Computer Science Fundamentals)
+- 💻 My Tech Stack:
+  - **Languages:** Python, C#, C++, JavaScript
+  - **Tools:** Visual Studio, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyTheSlacker&show_icons=true&theme=dracula)
