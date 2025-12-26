@@ -21,7 +21,7 @@
 ---
 
 ### 🔭 Current Projects & Learning
-- **Working on:** `EVNhom12` (EV routing algorithms using A* search)
+- **Working on:** `EVNhom12` (EV routing with A* algorithms)
 - **Learning:** `CS50` (Harvard's Introduction to Computer Science)
 - **Focus:** Systems programming, logic optimization, and game dev basics.
 
