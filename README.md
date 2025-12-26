@@ -30,7 +30,4 @@
 ### 🏆 Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TonyTheSlacker&theme=dracula&no-frame=true&column=7" alt="Tony's Trophies" />
-</div>username=TonyTheSlacker&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyTheSlacker&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Tony's Stats" />
 </div>
