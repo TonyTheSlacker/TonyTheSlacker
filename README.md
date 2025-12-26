@@ -1,6 +1,6 @@
 ### Hi there, I'm Tony! 👋
 
-I'm a Computer Science student and aspiring Systems Engineer. I enjoy solving complex logic puzzles and building efficient software.
+I'm a IT Pedagogy Student. I enjoy solving complex logic puzzles and building efficient software.
 
 - 🔭 I’m currently working on: **EVNhom12** (EV routing with A* algorithms)
 - 📚 I’m currently learning: **CS50** (Computer Science Fundamentals)
