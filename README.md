@@ -13,7 +13,7 @@ I don't just write code; I aim to deconstruct algorithms and logic to understand
 - **Major:** IT Pedagogy
 - **Focus:** Systems Programming, Algorithm Analysis, & Technical Education
 - **Currently Learning:** Python (Data Structures & AI applications)
-- **Motto:** "Non omnia scio, tantum scio quod scio." (I don't know everything, I only know what I know).
+- **Motto:** "Non omnia scio, tantum scio quod scio."
 - **Contact:**
   <a href="https://www.linkedin.com/in/thiench1402/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
