@@ -13,7 +13,7 @@ I don't just write code; I aim to deconstruct algorithms and logic to understand
 - **Major:** IT Pedagogy
 - **Focus:** Systems Programming, Algorithm Analysis, & Technical Education
 - **Currently Learning:** Python (Data Structures & AI applications)
-- **Motto:** "I don't know everything, I only know what I know" (By teaching, we learn).
+- **Motto:** "Non omnia scio, tantum scio quod scio." (I don't know everything, I only know what I know).
 - **Contact:** Message me via LinkedIn
 
 ---
