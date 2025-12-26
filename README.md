@@ -1,19 +1,20 @@
 # Tony
 
-## Aspiring Systems Engineer | IT Pedagogy Student
+## IT Pedagogy Student | Aspiring Systems Engineer
 
-Computer Science student with a passion for logic puzzles, algorithm optimization, and low-level systems. I enjoy building efficient software and exploring how things work under the hood.
+I am an **IT Pedagogy Major** dedicated to bridging the gap between complex computing systems and accessible education. My passion lies in understanding the *fundamentals* of how software interacts with hardware.
+
+I don't just write code; I aim to deconstruct algorithms and logic to understand them deeply—whether it's building low-level systems in C/C++ or designing educational tools. I believe that if you can't explain it simply, you don't understand it well enough.
 
 ---
 
 ## About Me
 
-- **Focus:** Systems Programming & Algorithms
-- **Strengths:** C++, Logic Optimization (A*), Python
-- **Currently Learning:** Computer Science Fundamentals (CS50)
-- **Tech Stack:** C++, C#, Python, JavaScript, Linux
-- **Contact:** [YourEmail@example.com](mailto:YourEmail@example.com)
-- **Motto:** "Exploring the machine, one bit at a time."
+- **Major:** IT Pedagogy
+- **Focus:** Systems Programming, Algorithm Analysis, & Technical Education
+- **Currently Learning:** Python (Data Structures & AI applications)
+- **Motto:** "I don't know everything, I only know what I know" (By teaching, we learn).
+- **Contact:** Message me via LinkedIn
 
 ---
 
@@ -38,21 +39,21 @@ Computer Science student with a passion for logic puzzles, algorithm optimizatio
 
 ---
 
-## Skills
+## Technical Skills
 
-| Programming Languages | Tools & Platforms |
-|------------------------|-------------------------|
-| - C++, C# <br> - Python, JavaScript | - Visual Studio, VS Code <br> - Linux (Ubuntu/Debian) <br> - Git & GitHub |
-| **Current Projects** | **Interests** |
-| - EVNhom12 (EV Routing / A*) <br> - CS50 Coursework | - Game Development <br> - Systems Architecture |
+| **Proficient (Core Stack)** | **Intermediate / Web** |
+|-----------------------------|--------------------------|
+| **C / C++** <br> *(Strong command of pointers & memory)* | **JavaScript / HTML / CSS** <br> *(Comfortable building UIs, reliant on docs)* |
+| **C# (.NET)** <br> *(Desktop apps & logic)* | **Java** <br> *(Previous academic experience)* |
+| **MySQL** <br> *(Database design & querying)* | **Tools:** Git, Visual Studio, Linux |
 
 ---
 
-## Open to
+## Current Focus
 
-- Collaborations on C++ or Python projects
-- Discussions about algorithms and data structures
-- Open Source contributions
+- **🚀 Learning:** Deepening my knowledge of **Python** for backend and algorithmic tasks.
+- **🔭 Project:** `EVNhom12` — Implementing **A* search algorithms** for EV routing.
+- **📚 Current Coursework:** CS50 (Harvard) & Pedagogy methodologies.
 
 ---
 
@@ -60,5 +61,3 @@ Computer Science student with a passion for logic puzzles, algorithm optimizatio
 ![Followers](https://img.shields.io/github/followers/TonyTheSlacker?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/TonyTheSlacker?label=Total%20Stars&style=social)
 ![Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/TonyTheSlacker)
-
-Thanks for visiting!
