@@ -27,7 +27,14 @@
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Activity
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TonyTheSlacker&theme=dracula&no-frame=true&column=7" alt="Tony's Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TonyTheSlacker&theme=dracula&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  </a>
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.demolab.com/?user=TonyTheSlacker&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
