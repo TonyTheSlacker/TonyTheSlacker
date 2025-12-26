@@ -14,7 +14,13 @@ I don't just write code; I aim to deconstruct algorithms and logic to understand
 - **Focus:** Systems Programming, Algorithm Analysis, & Technical Education
 - **Currently Learning:** Python (Data Structures & AI applications)
 - **Motto:** "Non omnia scio, tantum scio quod scio." (I don't know everything, I only know what I know).
-- **Contact:** Message me via LinkedIn
+- **Contact:**
+  <a href="https://www.linkedin.com/in/thiench1402/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 ---
 
