@@ -4,8 +4,6 @@
 
 I am an **IT Pedagogy Major** dedicated to bridging the gap between complex computing systems and accessible education. My passion lies in understanding the *fundamentals* of how software interacts with hardware.
 
-I don't just write code; I aim to deconstruct algorithms and logic to understand them deeply—whether it's building low-level systems in C/C++ or designing educational tools. I believe that if you can't explain it simply, you don't understand it well enough.
-
 ---
 
 ## About Me
@@ -13,7 +11,6 @@ I don't just write code; I aim to deconstruct algorithms and logic to understand
 - **Major:** IT Pedagogy
 - **Focus:** Systems Programming, Algorithm Analysis, & Technical Education
 - **Currently Learning:** Python (Data Structures & AI applications)
-- **Motto:** "Non omnia scio, tantum scio quod scio."
 - **Contact:**
   <a href="https://www.linkedin.com/in/thiench1402/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
